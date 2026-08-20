@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for helping out. This guide covers every Incufield repo.
+Thanks for helping out. This guide covers every Physical Spark repo.
 
 ## Before you start
 
