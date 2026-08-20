@@ -2,7 +2,7 @@
 
 ## Reporting a vulnerability
 
-Email **security@incufield.com**. Do not open a public issue.
+Email **security@physical-spark.com**. Do not open a public issue.
 
 Include:
 - What the problem is
@@ -23,5 +23,5 @@ Deleting the commit is **not** enough. The value is already exposed.
 ## If personal data gets committed
 
 1. Stop. Do not push more commits.
-2. Tell the person responsible for privacy at Incufield.
+2. Tell the person responsible for privacy at Physical Spark.
 3. Follow the deletion steps in `handbook/privacy/incident-response.md`.
